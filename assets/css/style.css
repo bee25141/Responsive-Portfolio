@@ -218,8 +218,59 @@ body {
 
   /* media queries */
 
-@media screen and (max-width: 980px)
+@media screen and (max-width: 980px){
+  body{
+    font-size: 15px;
+  }
 
-@media screen and (max-width: 768px)
+  h1{
+    font-size: 25px;
+  }
+    #logo{
+      margin-left: 1.5em;
+      width: 200px;
+    }
 
-@media screen and (max-width: 640px)
+    #main-container{
+      margin-left: 3em;
+    }
+
+    nav {
+      margin-right: 30px;
+    }
+
+    .main-section{
+      max-width: 600px;
+    }
+
+    .work{
+      width: 225px;
+    }
+}
+
+@media screen and (max-width: 768px){
+  #logo{
+    margin-left: .75em;
+  }
+
+  #main-container{
+    margin-left: 1em;
+  }
+
+  nav {
+    margin-right: 40px;
+  }
+
+  .main-section{
+    max-width: 720px;
+  }
+
+  .work{
+    width: 305px;
+  }
+}
+
+
+@media screen and (max-width: 640px){
+  
+}
