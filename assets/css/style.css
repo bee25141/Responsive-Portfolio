@@ -108,6 +108,7 @@ body {
     background: #666666;
     border-top: 8px solid #4aaaa5;
     height: 50px;
+    /* position: fixed; */
   }
   
   h3, h2 {
