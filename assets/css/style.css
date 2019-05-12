@@ -131,7 +131,7 @@ body {
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
-    background-image: url("assets/images/02.png");
+    background-image: url("/assets/images/02.png");
     object-fit: fill;
     border: 1px solid #333333;
   }
