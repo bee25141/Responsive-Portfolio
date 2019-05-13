@@ -144,8 +144,8 @@ body {
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
-    /* background-image: url("/assets/images/02.png"); */
-    /* object-fit: fill; */
+    /* background-color: #333333;
+    background: rgba(0, 100, 100, 0.8); */
     border: 10px solid #333333;
   }
   
