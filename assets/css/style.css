@@ -221,6 +221,11 @@ body {
 }
 
 @media screen and (max-width: 768px){
+  .parallax { 
+    background-image: url("/assets/images/background_blue.jpg");
+    height: 100%; 
+  }
+
   #logo{
     margin-left: .75em;
   }
@@ -230,7 +235,8 @@ body {
   }
 
   nav {
-    margin-right: 40px;
+    /* margin-right: 40px; */
+    justify-content: center
   }
 
   .main-section{
